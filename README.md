@@ -9,3 +9,8 @@ Repository for Instructors and Googlers to edit the microsite: [microsite-60005]
 - [Team 2](https://github.com/Service-Design-Studio/1d-final-project-team-2)
 - [Team 3](https://github.com/Service-Design-Studio/1d-final-project-team-3)
 - [Team 4](https://github.com/Service-Design-Studio/1d-final-project-team-4)
+
+## Instructors' Resources
+
+Here are the list of repositories for instructors and TAs:
+* [Week 2 Cohort Ruby exercises](https://github.com/Service-Design-Studio/intro_ruby_exercises)
