@@ -13,4 +13,5 @@ Repository for Instructors and Googlers to edit the microsite: [microsite-60005]
 ## Instructors' Resources
 
 Here are the list of repositories for instructors and TAs:
-* [Week 2 Cohort Ruby exercises](https://github.com/Service-Design-Studio/intro_ruby_exercises)
+* [Week 2: Cohort Ruby exercises](https://github.com/Service-Design-Studio/intro_ruby_exercises)
+* [Week 3: 3.7 CHIPS Hangpersons](https://github.com/Service-Design-Studio/hw-sinatra-saas-hangperson)
