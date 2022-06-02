@@ -10,8 +10,13 @@ Repository for Instructors and Googlers to edit the microsite: [microsite-60005]
 - [Team 3](https://github.com/Service-Design-Studio/1d-final-project-team-3)
 - [Team 4](https://github.com/Service-Design-Studio/1d-final-project-team-4)
 
+## CHIPS for Students
+* [Week 3: 3.7 CHIPS Hangperson](https://github.com/Service-Design-Studio/hw-sinatra-saas-hangperson)
+* [Week 4: 4.6 CHIPS: Hangperson on Rails](https://github.com/Service-Design-Studio/hw-rails-hangperson)
+
 ## Instructors' Resources
 
 Here are the list of repositories for instructors and TAs:
 * [Week 2: Cohort Ruby exercises](https://github.com/Service-Design-Studio/intro_ruby_exercises)
-* [Week 3: 3.7 CHIPS Hangpersons](https://github.com/Service-Design-Studio/hw-sinatra-saas-hangperson)
+
+
