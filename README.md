@@ -13,11 +13,11 @@ Repository for Instructors and Googlers to edit the microsite: [microsite-60005]
 ## CHIPS for Students
 * [Week 3: 3.7 CHIPS Hangperson](https://github.com/Service-Design-Studio/hw-sinatra-saas-hangperson)
 * [Week 4: 4.6 CHIPS: Hangperson on Rails](https://github.com/Service-Design-Studio/hw-rails-hangperson)
-
+* [Week 6: 8.9 CHIPS: Acceptance Test Unit Test Cycle](https://github.com/Service-Design-Studio/hw-acceptance-unit-test-cycle)
 ## Instructors' Resources
 
 Here are the list of repositories for instructors and TAs:
 * [Week 2: Cohort Ruby exercises](https://github.com/Service-Design-Studio/intro_ruby_exercises)
 * [Week 3: 3.7 CHIPS: Hangperson](https://github.com/Service-Design-Studio/hw-sinatra-saas-hangperson-ci)
-
+* [Week 6: 8.9 CHIPS: Acceptance Test Unit Test cycle](https://github.com/Service-Design-Studio/hw-acceptance-unit-test-cycle-ci)
 
