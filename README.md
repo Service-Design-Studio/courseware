@@ -10,7 +10,7 @@ Repository for Instructors and Googlers to edit the microsite: [microsite-60005]
 * [Week 3: 4.6 CHIPS: Hangperson on Rails](https://github.com/Service-Design-Studio/hw-rails-hangperson)
 * [Week 3: 5.2 CHIPS: Rails Intro](https://github.com/Service-Design-Studio/hw-rails-intro), [Public Template repo](https://github.com/Service-Design-Studio/rottenpotatoes-rails-intro)
 * [Week 4: 7.7 CHIPS: BDD and Cucumber](https://github.com/Service-Design-Studio/hw-bdd-cucumber.git)
-* [Week 6: 8.9 CHIPS: Acceptance Test Unit Test Cycle](https://github.com/Service-Design-Studio/hw-acceptance-unit-test-cycle)
+* [Week 6: 8.9 CHIPS: Acceptance Test Unit Test Cycle](https://github.com/Service-Design-Studio/hw-bdd-new-feature)
 ## Instructors' Resources
 
 Here are the list of repositories for instructors and TAs:
