@@ -14,8 +14,8 @@ Repository for Instructors and Googlers to edit the microsite: [microsite-60005]
 ## Instructors' Resources
 
 Here are the list of repositories for instructors and TAs:
+* [Complete solutions from Codio repositories, updated 6th of May 2024](https://github.com/Service-Design-Studio/chips-codio)
 * [Week 2: Cohort Ruby exercises](https://github.com/Service-Design-Studio/intro_ruby_exercises)
 * [Week 3: 3.7 CHIPS: Hangperson](https://github.com/Service-Design-Studio/hw-sinatra-saas-hangperson-ci)
-* [Week 3: 5.2 CHIPS: Rails Intr](https://github.com/Service-Design-Studio/rottenpotatoes-rails-intro-jik/tree/master)
 * [Week 6: 8.9 CHIPS: Acceptance Test Unit Test cycle](https://github.com/Service-Design-Studio/hw-acceptance-unit-test-cycle-ci)
 
